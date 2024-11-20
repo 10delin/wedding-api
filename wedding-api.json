@@ -1,7 +1,8 @@
 {
   "id": "1",
   "title": "Victor & Paloma",
-  "date": "2024-12-20T17:00:00",
+  "date": "2024-12-31T17:00:00",
+  "dateFormat": "Sábado 31 de Mayo de 2023",
   "link_form": "https://docs.google.com/forms/d/e/1FAIpQLScBPtce3ylzeJvSpN5-qyt_AJHtzigMtQx2wBtHAs_qWzDQ6Q/viewform?usp=sf_link",
   "header": ["Ceremonia", "Ubicación", "Preguntas"],
   "location": {
