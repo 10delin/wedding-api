@@ -1,19 +1,19 @@
 {
   "id": "1",
   "title": "Victor & Paloma",
-  "date": "2024-12-31T17:00:00",
-  "dateFormat": "Sábado 31 de Mayo de 2023",
+  "date": "2025-05-31T17:00:00",
+  "dateFormat": "Sábado 31 de Mayo de 2025",
   "link_form": "https://docs.google.com/forms/d/e/1FAIpQLScBPtce3ylzeJvSpN5-qyt_AJHtzigMtQx2wBtHAs_qWzDQ6Q/viewform?usp=sf_link",
   "header": ["Ceremonia", "Ubicación", "Preguntas"],
   "location": {
     "ceremony": {
-      "name": "Iglesia de San Pedro",
-      "address": "Calle Mayor, Cádiz",
+      "name": "Iglesia de Santo Domingo",
+      "address": "Jerez de la frontera",
       "time": "17:00"
     },
     "reception": {
       "name": "Hotel Playa Victoria",
-      "address": "Av. Andalucía, Cádiz",
+      "address": " Cádiz",
       "time": "20:00"
     }
   },
@@ -34,7 +34,7 @@
     }
   ],
   "countdown": {
-    "date": "2025-05-30T12:00:00"
+    "date": "2025-05-31T12:00:00"
   },
   "footer": {
     "title": "!Gracias por acompañarnos en nuestro día especial¡",
