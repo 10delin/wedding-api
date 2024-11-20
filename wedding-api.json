@@ -1,0 +1,42 @@
+{
+  "id": "1",
+  "title": "La boda de Ana y Luis",
+  "date": "2024-12-20T17:00:00",
+  "link_form": "https://docs.google.com/forms/d/e/1FAIpQLScBPtce3ylzeJvSpN5-qyt_AJHtzigMtQx2wBtHAs_qWzDQ6Q/viewform?usp=sf_link",
+  "header": ["Ceremonia", "Ubicación", "Preguntas"],
+  "location": {
+    "ceremony": {
+      "name": "Iglesia de San Pedro",
+      "address": "Calle Mayor, Cádiz",
+      "time": "17:00"
+    },
+    "reception": {
+      "name": "Hotel Playa Victoria",
+      "address": "Av. Andalucía, Cádiz",
+      "time": "20:00"
+    }
+  },
+  "story": {
+    "title": "Cómo se conocieron",
+    "content": "Ana y Luis se conocieron en un concierto de rock..."
+  },
+  "gallery": [
+    {
+      "id": "1",
+      "image": "https://example.com/images/image1.jpg",
+      "alt": "Ana y Luis en el parque"
+    },
+    {
+      "id": "2",
+      "image": "https://example.com/images/image2.jpg",
+      "alt": "Ana y Luis en la playa"
+    }
+  ],
+  "countdown": {
+    "date": "2025-05-30T12:00:00"
+  },
+  "footer": {
+    "title": "Gracias por acompañarnos en nuestro día especial",
+    "acknowledgements": "Con amor, Victor y Paloma"
+  }
+}
