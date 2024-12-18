@@ -1,13 +1,13 @@
 {
   "id": "1",
-  "title": "Victor Y Paloma",
+  "title": "Y Paloma Y Victor",
   "date": "2025-05-31T17:00:00",
   "dateFormat": "Sábado 31 de Mayo de 2025",
   "link_form": "https://docs.google.com/forms/d/e/1FAIpQLScI9EEnwIn-uKKR2HD3_vLhruZaHZQOeEZJtsoCAwVn22RUxQ/viewform",
-  "header": ["Ceremonia", "Ubicaciónnnn", "Preguntasss"],
+  "header": ["Ceremonia", "Ubicación", "Preguntas"],
   "location": {
     "ceremony": {
-      "name": "Iglesia de Santo Domingo",
+      "name": "Iglesia de San Marcos",
       "address": "Jerez de la frontera",
       "time": "17:00"
     },
