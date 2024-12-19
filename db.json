@@ -5,9 +5,9 @@
   "dateFormat": "Sábado 31 de Mayo de 2025",
   "link_form": "https://docs.google.com/forms/d/e/1FAIpQLScI9EEnwIn-uKKR2HD3_vLhruZaHZQOeEZJtsoCAwVn22RUxQ/viewform",
   "header": [
-    { name: "Ceremonia", id: "headerItem1" },
-    { name: "Historia", id: "headerItem2" },
-    { name: "Explorar", id: "headerItem3" },
+    { "name": "Ceremonia", "id": "headerItem1" },
+    { "name": "Historia", "id": "headerItem2" },
+    { "name": "Explorar", "id": "headerItem3" }
   ],
   "location": {
     "ceremony": {
