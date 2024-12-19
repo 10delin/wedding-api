@@ -4,7 +4,11 @@
   "date": "2025-05-31T17:00:00",
   "dateFormat": "Sábado 31 de Mayo de 2025",
   "link_form": "https://docs.google.com/forms/d/e/1FAIpQLScI9EEnwIn-uKKR2HD3_vLhruZaHZQOeEZJtsoCAwVn22RUxQ/viewform",
-  "header": ["Ceremonia", "Ubicación", "Preguntas"],
+  "header": [
+    { name: "Ceremonia", id: "headerItem1" },
+    { name: "Historia", id: "headerItem2" },
+    { name: "Explorar", id: "headerItem3" },
+  ],
   "location": {
     "ceremony": {
       "name": "Iglesia de San Marcos",
