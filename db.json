@@ -4,6 +4,7 @@
   "date": "2025-05-31T17:00:00",
   "dateFormat": "Sábado 31 de Mayo de 2025",
   "link_form": "https://docs.google.com/forms/d/e/1FAIpQLScI9EEnwIn-uKKR2HD3_vLhruZaHZQOeEZJtsoCAwVn22RUxQ/viewform",
+  "confirm_assist": "¡Confirma tu asistencia!",
   "header": [
     { "name": "Ceremonia", "id": "headerItem1" },
     { "name": "Historia", "id": "headerItem2" },
@@ -17,7 +18,7 @@
     },
     "reception": {
       "name": "Hotel Playa Victoria",
-      "address": " Cádiz",
+      "address": "Cádiz",
       "time": "20:00"
     }
   },
