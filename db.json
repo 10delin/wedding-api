@@ -58,6 +58,66 @@
       "alt": "Ana y Luis en la playa"
     }
   ],
+  "explore": [
+    {
+      "id": "1",
+      "title": "Hoteles",
+      "description": "Descubre los mejores hoteles de la zona",
+      "items": [
+        {
+          "name": "Hotel Soho Boutique Jerez",
+          "url": "https://www.sohohoteles.com/destinos/hotel-soho-boutique-jerez-4/"
+        },
+        {
+          "name": "Hotel NH Avenida Jerez",
+          "url": "https://www.nh-hotels.com/es/hotel/nh-avenida-jerez"
+        },
+        {
+          "name": "Hotel Villa Jerez",
+          "url": "https://www.hace.es/hotel-villa-jerez/"
+        }
+      ],
+      "link_maps": "https://www.google.com/maps/d/embed?mid=1B8NwWjPpQrrFI6kdn0YAuEVaUZpXxTY&ehbc=2E312F&noprof=1"
+    },
+    {
+      "id": "2",
+      "title": "Eventos",
+      "description": "Descubre los mejores eventos de la zona",
+      "items": [
+        {
+          "name": "Concierto de rock",
+          "date": "2025-05-30T20:00:00",
+          "url": "https://www.ticketmaster.com/"
+        },
+        {
+          "name": "Fiesta en la playa",
+          "date": "2025-05-31T22:00:00",
+          "url": "https://www.eventbrite.com/"
+        }
+      ],
+      "link_maps": "https://www.google.com/maps/d/embed?mid=1B8NwWjPpQrrFI6kdn0YAuEVaUZpXxTY&ehbc=2E312F&noprof=1"
+    },
+    {
+      "id": "3",
+      "title": "Cosas que hacer",
+      "description": "Descubre los mejores eventos de la zona",
+      "items": [
+        {
+          "name": "Visita a la bodega",
+          "url": "https://www.bodegasfundador.com/"
+        },
+        {
+          "name": "Visita al castillo",
+          "url": "https://www.castillodesantiago.com/"
+        },
+        {
+          "name": "Visita al parque",
+          "url": "https://www.parquedelascuevasdeltesoro.com/"
+        }
+      ],
+      "link_maps": "https://www.google.com/maps/d/embed?mid=1B8NwWjPpQrrFI6kdn0YAuEVaUZpXxTY&ehbc=2E312F&noprof=1"
+    }
+  ],
   "countdown": {
     "date": "2025-05-31T12:00:00"
   },
