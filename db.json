@@ -12,10 +12,9 @@
     { "name": "Explorar", "id": "headerItem3" }
   ],
   "rings": {
-    "title": "Nuestra boda se acerca",
+    "title": "Se acerca el día",
     "date": "Sábado 31 de Mayo de 2025",
-    "subtitle": "Estamos encantados de invitarte a celebrar nuestra boda",
-    "description": "Aquí puedes contar tu historia y permitir que tus usuarios sepan más sobre ti."
+    "subtitle": "Nos hace muy felices que puedas compartir este día con nosotros"
   },
   "block_images": {
     "ceremony": {
