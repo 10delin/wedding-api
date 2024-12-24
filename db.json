@@ -18,11 +18,11 @@
   "block_images": {
     "ceremony": {
       "title": "Ceremonia",
-      "description": "Iglesia de San Marcos"
+      "description": "Iglesia de San Marcos, 18:00 h"
     },
     "reception": {
-      "title": "Recepción",
-      "description": "Hotel Playa Victoria"
+      "title": "Celebración",
+      "description": "Viña El Majuelo, 20:00 h"
     }
   },
   "history": {
