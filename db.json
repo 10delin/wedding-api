@@ -76,11 +76,11 @@
           "url": "https://www.hace.es/hotel-villa-jerez/"
         }
       ],
-      "link_maps": "https://www.google.com/maps/d/embed?mid=1B8NwWjPpQrrFI6kdn0YAuEVaUZpXxTY&ehbc=2E312F&noprof=1"
+      "link_maps": "https://www.google.com/maps/d/u/0/embed?mid=1O5vNipuUCXhOIrPNsNIULM2PBdouhZI&ehbc=2E312F"
     },
     {
       "id": "2",
-      "title": "Eventos",
+      "title": "Restaurantes",
       "description": "Descubre los mejores eventos de la zona",
       "items": [
         {
@@ -94,7 +94,7 @@
           "url": "https://www.eventbrite.com/"
         }
       ],
-      "link_maps": "https://www.google.com/maps/d/embed?mid=1B8NwWjPpQrrFI6kdn0YAuEVaUZpXxTY&ehbc=2E312F&noprof=1"
+      "link_maps": "https://www.google.com/maps/d/u/0/embed?mid=1_kG0QyVq06UR738S9LZgCSffWKEv2I4&ehbc=2E312F"
     },
     {
       "id": "3",
@@ -114,7 +114,7 @@
           "url": "https://www.parquedelascuevasdeltesoro.com/"
         }
       ],
-      "link_maps": "https://www.google.com/maps/d/embed?mid=1B8NwWjPpQrrFI6kdn0YAuEVaUZpXxTY&ehbc=2E312F&noprof=1"
+      "link_maps": "https://www.google.com/maps/d/u/0/embed?mid=1wMQKW2uEkakFmv2Plu5RueuOQJWLUb8&ehbc=2E312F"
     }
   ],
   "countdown": {
