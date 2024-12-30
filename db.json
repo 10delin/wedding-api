@@ -9,7 +9,7 @@
   "header": [
     { "name": "La boda", "id": "headerItem1" },
     { "name": "Nuestra historia", "id": "headerItem2" },
-    { "name": "Infrmación extra", "id": "headerItem3" }
+    { "name": "Información extra", "id": "headerItem3" }
   ],
   "rings": {
     "title": "Se acerca el día",
