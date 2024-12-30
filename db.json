@@ -7,9 +7,9 @@
   "link_form": "https://docs.google.com/forms/d/e/1FAIpQLScI9EEnwIn-uKKR2HD3_vLhruZaHZQOeEZJtsoCAwVn22RUxQ/viewform",
   "confirm_assist": "¡Confirma tu asistencia!",
   "header": [
-    { "name": "Ceremonia", "id": "headerItem1" },
-    { "name": "Historia", "id": "headerItem2" },
-    { "name": "Explorar", "id": "headerItem3" }
+    { "name": "La boda", "id": "headerItem1" },
+    { "name": "Nuestra historia", "id": "headerItem2" },
+    { "name": "Infrmación extra", "id": "headerItem3" }
   ],
   "rings": {
     "title": "Se acerca el día",
