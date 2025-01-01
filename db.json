@@ -77,6 +77,41 @@
       "link_maps": "https://www.google.com/maps/d/u/0/embed?mid=1wMQKW2uEkakFmv2Plu5RueuOQJWLUb8&ehbc=2E312F"
     }
   ],
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "questions": [
+      {
+        "id": "1",
+        "question": "¿Dónde se celebrará la ceremonia?",
+        "answer": "En la Iglesia de San Marcos, en Jerez de la Frontera"
+      },
+      {
+        "id": "2",
+        "question": "¿Dónde se celebrará la celebración?",
+        "answer": "En la Viña El Majuelo, en Cádiz"
+      },
+      {
+        "id": "3",
+        "question": "¿Dónde se celebrará la celebración?",
+        "answer": "En la Viña El Majuelo, en Cádiz"
+      },
+      {
+        "id": "4",
+        "question": "¿Dónde se celebrará la celebración?",
+        "answer": "En la Viña El Majuelo, en Cádiz"
+      },
+      {
+        "id": "5",
+        "question": "¿Dónde se celebrará la celebración?",
+        "answer": "En la Viña El Majuelo, en Cádiz"
+      },
+      {
+        "id": "6",
+        "question": "¿Dónde se celebrará la celebración?",
+        "answer": "En la Viña El Majuelo, en Cádiz"
+      }
+    ]
+  },
   "countdown": {
     "date": "2025-05-31T12:00:00"
   },
