@@ -77,7 +77,7 @@
       "link_maps": "https://www.google.com/maps/d/u/0/embed?mid=1wMQKW2uEkakFmv2Plu5RueuOQJWLUb8&ehbc=2E312F"
     }
   ],
-  "faq": {
+  "": {
     "title": "Preguntas frecuentes",
     "questions": [
       {
@@ -92,23 +92,43 @@
       },
       {
         "id": "3",
-        "question": "¿Dónde se celebrará la celebración?",
-        "answer": "En la Viña El Majuelo, en Cádiz"
+        "question": "¿A qué hora comienza la ceremonia?",
+        "answer": "La ceremonia comenzará a las 17:00 horas."
       },
       {
         "id": "4",
-        "question": "¿Dónde se celebrará la celebración?",
-        "answer": "En la Viña El Majuelo, en Cádiz"
+        "question": "¿Hay opciones de menú para vegetarianos o veganos?",
+        "answer": "Sí, por favor avísanos con antelación para organizar el menú especial."
       },
       {
         "id": "5",
-        "question": "¿Dónde se celebrará la celebración?",
-        "answer": "En la Viña El Majuelo, en Cádiz"
+        "question": "¿Hay transporte disponible entre la ceremonia y la celebración?",
+        "answer": "Sí, habrá un autobús que saldrá desde la Iglesia de San Marcos hacia la Viña El Majuelo."
       },
       {
         "id": "6",
-        "question": "¿Dónde se celebrará la celebración?",
-        "answer": "En la Viña El Majuelo, en Cádiz"
+        "question": "¿Dónde puedo alojarme cerca del lugar de la celebración?",
+        "answer": "Hay varias opciones de hoteles y alojamientos en Jerez y Cádiz. Consulta nuestra sección de 'Explorar' para más detalles."
+      },
+      {
+        "id": "7",
+        "question": "¿Puedo llevar a mis hijos a la boda?",
+        "answer": "Por supuesto, los niños son bienvenidos. Habrá una zona especial para ellos."
+      },
+      {
+        "id": "8",
+        "question": "¿Cuál es el código de vestimenta?",
+        "answer": "El código de vestimenta es formal, pero cómodo para disfrutar del día."
+      },
+      {
+        "id": "9",
+        "question": "¿Se permitirá lanzar arroz o pétalos en la ceremonia?",
+        "answer": "No está permitido lanzar arroz, pero se pueden usar pétalos biodegradables."
+      },
+      {
+        "id": "10",
+        "question": "¿Habrá música en vivo durante la celebración?",
+        "answer": "Sí, tendremos una banda en vivo y un DJ para animar la fiesta."
       }
     ]
   },
