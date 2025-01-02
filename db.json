@@ -83,53 +83,83 @@
     "questions": [
       {
         "id": "1",
-        "question": "¿Dónde se celebrará la ceremonia?",
-        "answer": "En la Iglesia de San Marcos, en Jerez de la Frontera"
+        "question": "¿A qué hora es la ceremonia?",
+        "answer": "a las 18:00 h."
       },
       {
         "id": "2",
-        "question": "¿Dónde se celebrará la celebración?",
-        "answer": "En la Viña El Majuelo, en Cádiz"
+        "question": "¿A qué hora comienza la celebración?",
+        "answer": "A las 20:00 h."
       },
       {
         "id": "3",
-        "question": "¿A qué hora comienza la ceremonia?",
-        "answer": "La ceremonia comenzará a las 17:00 horas."
+        "question": "¿Hasta qué hora dura la fiesta?",
+        "answer": "Hasta las 06:00 h."
       },
       {
         "id": "4",
-        "question": "¿Hay opciones de menú para vegetarianos o veganos?",
-        "answer": "Sí, por favor avísanos con antelación para organizar el menú especial."
+        "question": "¿Cuál es el protocolo de vestimenta?",
+        "answer": "Vestimenta formal, si tienes dudas preguntadnos. Para nosotros es un día especial, esperamos verte con tus mejores galas."
       },
       {
         "id": "5",
-        "question": "¿Hay transporte disponible entre la ceremonia y la celebración?",
-        "answer": "Sí, habrá un autobús que saldrá desde la Iglesia de San Marcos hacia la Viña El Majuelo."
+        "question": "¿Cómo podemos hacer el regalo de bodas?",
+        "answer": "Preferimos transferencia al número de cuenta: ES7215830001119185977403, beneficiario: V Duarte Rute & P Martin-Bejarano Soto."
       },
       {
         "id": "6",
-        "question": "¿Dónde puedo alojarme cerca del lugar de la celebración?",
-        "answer": "Hay varias opciones de hoteles y alojamientos en Jerez y Cádiz. Consulta nuestra sección de 'Explorar' para más detalles."
+        "question": "¿Cómo llegar a la Iglesia de San Marcos?",
+        "answer": "Nuestra recomendación es ir andando o en taxi."
       },
       {
         "id": "7",
-        "question": "¿Puedo llevar a mis hijos a la boda?",
-        "answer": "Por supuesto, los niños son bienvenidos. Habrá una zona especial para ellos."
+        "question": "¿Cómo llegar a la Viña el Majuelo?",
+        "answer": "En coche, taxi o autobús que pondremos a vuestra disposición."
       },
       {
         "id": "8",
-        "question": "¿Cuál es el código de vestimenta?",
-        "answer": "El código de vestimenta es formal, pero cómodo para disfrutar del día."
+        "question": "¿Hay opciones de transporte desde el lugar de la ceremonia al banquete?",
+        "answer": "Sí, pondremos buses."
       },
       {
         "id": "9",
-        "question": "¿Se permitirá lanzar arroz o pétalos en la ceremonia?",
-        "answer": "No está permitido lanzar arroz, pero se pueden usar pétalos biodegradables."
+        "question": "¿Hay aparcamiento disponible?",
+        "answer": "Sí."
       },
       {
         "id": "10",
-        "question": "¿Habrá música en vivo durante la celebración?",
-        "answer": "Sí, tendremos una banda en vivo y un DJ para animar la fiesta."
+        "question": "¿Recomendáis algún hotel cercano?",
+        "answer": "Ve a la sección de 'Información', hay un mapa de Google Maps con varias recomendaciones, pero si tienes alguna duda no dudes en preguntarnos."
+      },
+      {
+        "id": "11",
+        "question": "¿Tenéis acuerdos o tarifas especiales en algún alojamiento?",
+        "answer": "Sí, en el hotel Barceló Centro con el código “BODA31MAYO25” tendréis un % de descuento."
+      },
+      {
+        "id": "12",
+        "question": "¿Pueden asistir niños a la boda?",
+        "answer": "Nosotros preferimos que no y no pondremos servicio de animación, pero lo dejamos a elección de cada uno."
+      },
+      {
+        "id": "13",
+        "question": "¿Habrá actividades o zona habilitada para ellos?",
+        "answer": "No."
+      },
+      {
+        "id": "14",
+        "question": "¿Hay algún menú infantil disponible?",
+        "answer": "Sí, hay opción."
+      },
+      {
+        "id": "15",
+        "question": "¿Habrá opciones para personas con alergias o restricciones alimentarias?",
+        "answer": "Sí, por supuesto."
+      },
+      {
+        "id": "16",
+        "question": "¿Debemos notificar alguna preferencia de comida?",
+        "answer": "Si, en el formulario de confirmación de asistencia."
       }
     ]
   },
