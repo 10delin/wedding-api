@@ -8,9 +8,9 @@
   "confirm_assist": "¡Confirma tu asistencia!",
   "header": [
     { "name": "La boda", "id": "headerItem1" },
-    { "name": "Nuestra historia", "id": "headerItem2" },
+    { "name": "Historia", "id": "headerItem2" },
     { "name": "Preguntas", "id": "headerItem3" },
-    { "name": "Información extra", "id": "headerItem4" }
+    { "name": "Información", "id": "headerItem4" }
   ],
   "rings": {
     "title": "Se acerca el día de nuestra boda",
