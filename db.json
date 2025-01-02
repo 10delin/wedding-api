@@ -7,7 +7,7 @@
   "link_form": "https://docs.google.com/forms/d/e/1FAIpQLScI9EEnwIn-uKKR2HD3_vLhruZaHZQOeEZJtsoCAwVn22RUxQ/viewform",
   "confirm_assist": "¡Confirma tu asistencia!",
   "header": [
-    { "name": "La boda", "id": "headerItem1" },
+    { "name": "Boda", "id": "headerItem1" },
     { "name": "Historia", "id": "headerItem2" },
     { "name": "Preguntas", "id": "headerItem3" },
     { "name": "Información", "id": "headerItem4" }
